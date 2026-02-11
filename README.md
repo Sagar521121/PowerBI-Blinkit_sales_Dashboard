@@ -2,13 +2,14 @@
 
 ## 📊 Dashboard Preview
 
-![Blinkit Dashboard](dashboard.png)
+![Blinkit Dashboard](dashboard-blinkit_sales.png)
+
 
 ---
 
 ## 📌 Project Overview
-This Power BI dashboard analyzes Blinkit's sales and outlet performance data to uncover business trends, customer preferences, and operational insights.  
-The aim of this project was to transform raw retail data into clear, actionable insights that can support better business decisions.
+This Power BI dashboard analyses Blinkit's sales and outlet performance data to uncover business trends, customer preferences, and operational insights.  
+This project aimed to transform raw retail data into clear, actionable insights that can support better business decisions.
 
 ---
 
